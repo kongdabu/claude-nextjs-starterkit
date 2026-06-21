@@ -63,3 +63,9 @@ credentials.json
 # IDE
 .idea/
 .vscode/settings.json
+
+# AX FDE 하네스 산출물 (로컬 전용, GitHub 미반영)
+/CLAUDE.local.md
+/AX_FDE_사업추진안.md
+/FDE_조직구성안.md
+/_workspace/
